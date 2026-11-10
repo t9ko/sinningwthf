@@ -1,0 +1,13 @@
+{
+  "name": "chat-site",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Private hangout site: chat, voice calls and games behind one tab. No dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
