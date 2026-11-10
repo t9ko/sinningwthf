@@ -1,0 +1,13 @@
+{
+  "name": "chat-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blacked-out private chat site: accounts, friends, images, voice messages, GIFs. No dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
